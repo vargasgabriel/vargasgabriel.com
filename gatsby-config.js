@@ -1,14 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Gabriel Vargas`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Gabriel Assunção Vargas`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `gassuncaov`,
+      github: `vargasgabriel`,
+      linkedin: `vargasgabriel`,
+      instagram: `gassuncaov`,
     },
   },
   plugins: [
