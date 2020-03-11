@@ -3,9 +3,9 @@ module.exports = {
     title: `Gabriel Vargas`,
     author: {
       name: `Gabriel Assunção Vargas`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `Written for me to learn more.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `My personal page.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `gassuncaov`,
